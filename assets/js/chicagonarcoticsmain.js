@@ -7,7 +7,7 @@
  // });
 //Load the DATA
 // d3.json('https://github.com/mololuwaf/Chicago-crime-project-3/blob/main/Chicago_narcotics/data.json')
-  const tabledata = d3.json("data2.json")
+  const tabledata = d3.json("assets/data/data2.json")
 
 
   var filters = {}
